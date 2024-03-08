@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Итоговая_Контрольная_По_Основному_Блоку/1.0.0": {
+        "runtime": {
+          "Итоговая_Контрольная_По_Основному_Блоку.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Итоговая_Контрольная_По_Основному_Блоку/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
